@@ -32,3 +32,8 @@ npm start
 
 ## Modalidad de entrega
 * Repositorio público subido a GitHub, Gitlab, Bitbucket.
+
+## Info
+Twitch: cubiarino  
+Discord: cubiarino #1433  
+Contacto: casaburi.ignacio@gmail.com
